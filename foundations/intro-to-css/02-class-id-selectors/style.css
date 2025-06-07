@@ -1,6 +1,4 @@
-.first,
-.third,
-.fifth {
+.odd {
     background-color: pink;
     font-family: Verdana, Dejavu Sans, Sans-serif, ;
 }
